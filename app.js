@@ -1,2 +1,1 @@
-console.log('this')
-console.log('ookk')
+console.log('this is a app')
